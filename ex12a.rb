@@ -4,6 +4,8 @@ number = gets.chomp.to_f
 change = number * 0.10
 puts "10% of #{number} is #{change}."
 
+puts "This ends our exercise 12."
+
 # print "Give me another number: "
 # another = gets.chomp
 # number = another.to_f
